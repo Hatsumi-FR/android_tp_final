@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TP final</string>
+    <string name="createcity_title">Nom de la nouvelle ville</string>
+    <string name="createcity_positive">Créer</string>
+    <string name="createcity_negative">Annuler</string>
+    <string name="createcity_hint">Paris, Lille...</string>
+    <string name="menu_create_city">Créer une ville</string>
+    <string name="deletecity_title">Voulez-vous vraiment supprimer %1$s?</string>
+    <string name="deletecity_positive">Supprimer</string>
+    <string name="deletecity_negative">Annuler</string>
+    <string name="city_message_error_could_not_create">Erreur à la création</string>
+    <string name="city_message_info_city_deleted">%1$s a été supprimé</string>
+
+    <string name="city_message_error_could_not_delete">%1$s n\'a pas pu être supprimé</string>
+    <string name="weather_temperature_value">%1$d °C</string>
+    <string name="weather_humidity_value">%1$d %%</string>
+    <string name="weather_pressure_value">%1$d hPa</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
